@@ -34,3 +34,8 @@ body {
     margin-top: 6%;
     width: 90%;
 }
+
+#hiddencard {
+    position: absolute;
+    visibility: hidden;
+}
